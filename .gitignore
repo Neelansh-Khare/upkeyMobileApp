@@ -1,0 +1,5 @@
+.gitsecret/keys/random_seed
+!*.secret
+upkeyApp/app/src/test/java/com/example/njweather/UnitTest.kt
+upkeyApp/app/src/main/java/com/example/njweather/MainActivity.kt
+upkeyApp/app/src/androidTest/java/com/example/njweather/InstrumentClass.kt
